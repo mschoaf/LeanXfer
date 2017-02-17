@@ -1,2 +1,2 @@
 # LeanXfer Project
-Use for getting items into DFS
+Used for transferring items from Lean
